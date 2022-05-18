@@ -3,3 +3,4 @@
 - 🔭 Hoje trabalho com Produtos
 - 📖 Estudante de Ciências Atuariais aprendendo Python 
 - 📊 Aficionado por Dados
+- 💻 Apaixonado por Games de todo tipo
