@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Produtos, especificamente com o público alvo de ações de marketing;
 - 📖 Estudante de Ciências Atuariais pela UNIFESP aprendendo Python 
 - 📊 Aficionado por Dados
-- 💻 Apaixonado por Games de todo tipo
+- 💻 Apaixonado por games de todo tipo
  
  <div>
  <a href="https://github.com/marcusferreira16">
