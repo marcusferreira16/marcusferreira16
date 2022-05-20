@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Produtos, especificamente com o público alvo de ações de marketing;
 - 📖 Estudante de Ciências Atuariais pela UNIFESP
-- ❤ Python 
 - 📊 Aficionado por Dados
 - 💻 Apaixonado por games de todo tipo
  
