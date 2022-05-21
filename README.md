@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu perfil! Eu sou o Marcus 👻
+## Olá! Bem vindo ao meu perfil! Eu sou o Marcus <img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"/>
 
 - 🔭 Hoje trabalho com Produtos, especificamente com o público alvo de ações de marketing;
 - 📖 Estudante de Ciências Atuariais pela UNIFESP
