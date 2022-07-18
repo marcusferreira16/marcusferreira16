@@ -25,7 +25,7 @@
   <a href="https://instagram.com/mferreira16._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mferreira1611@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcusvdsferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.hackerrank.com/marcusferreira11" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white]" target="_blank"></a> 
+   <a href="https://www.hackerrank.com/marcusferreira11" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/marcusferreira16/marcusferreira16/blob/output/github-contribution-grid-snake.svg)
   
