@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil, pode me chamar de Marcus! 🤖
 
-- 👨🏼‍💻 Data Analytics no maior banco da América Latina 
-- 📖 Aprendendo sobre Analytics Engineer e desenvolvimento em Cloud
+- 👨🏼‍💻 Data Engineer no maior banco da América Latina 
+- 📖 Aprendendo sobre desenvolvimento em Cloud e melhores práticas de Engenharia de Dados
 - ☁️ AWS Certified Cloud Practitioner
  
  <div>
